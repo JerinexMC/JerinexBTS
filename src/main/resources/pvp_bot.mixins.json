@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "org.stepan1411.pvp_bot.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "DamageTrackingMixin",
+    "ServerConfigHandlerMixin",
+    "ServerPlayerEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
