@@ -1,4 +1,4 @@
-package org.stepan1411.pvp_bot.bot;
+package org.stepan1411.pvp_bot.bot; TEST ETST
 
 import net.minecraft.block.Blocks;
 import net.minecraft.component.DataComponentTypes;
